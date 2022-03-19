@@ -1,0 +1,8 @@
+# ninja log v5
+1	42	1647687652938039253	AlgorithmAnalysis	2ca7a4ee8b500474
+0	245	1647680154400732716	CMakeFiles/AlgorithmAnalysis.dir/first.cpp.o	ba6c9fd40ceca18c
+4	49	1647687686276134527	build.ninja	162280c823e5fbfc
+0	274	1647687449648256922	CMakeFiles/AlgorithmAnalysis.dir/第一次作业/找素数.cpp.o	84d6c0ebb8c22a56
+0	278	1647687538055274357	CMakeFiles/AlgorithmAnalysis.dir/第一次作业/超越方程.cpp.o	36403c7912ab07a6
+2	215	1647687644249724882	CMakeFiles/AlgorithmAnalysis.dir/第一次作业/分数表达式.cpp.o	447e5feb77b46b10
+1	205	1647687596620373754	CMakeFiles/AlgorithmAnalysis.dir/第一次作业/佩尔方程.cpp.o	1f59a42cc8f3df44
